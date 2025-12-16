@@ -1,0 +1,59 @@
+.topnav {
+    background-color: palevioletred;
+    overflow: hidden;
+    left: 0;
+    width: 100%;
+}
+.topnav a {
+    float: left;
+    color: purple;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.topnav a:hover {
+    background-color: purple;
+    color: #f1f1f1;
+}
+.topnav a:active {
+    background-color: #04AA6D;
+    color: black;
+    left: 0;
+}
+#main h2{
+    color: purple;
+    text-shadow: #f1f1f1;
+    left: 0;
+    font-size: 30px;
+}
+#main {
+    color: purple;
+    font-size: 20px;
+    padding-bottom: 50px;
+}
+html {
+    background-color: pink;
+}
+.title{
+    width: 100%;
+    top: 0;
+    left: 0;
+    background-color: rgb(184, 29, 81);
+    color: pink;
+    padding: 20px;
+    text-shadow: 4px 2px rgb(220, 105, 143);
+    font-size: 40;
+}
+.bottombar {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: palevioletred;
+    color: darkslateblue;
+    padding-left: 10px;
+}
+.blockquote {
+    margin-left: 0;
+}
